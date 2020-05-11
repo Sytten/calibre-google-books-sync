@@ -3,6 +3,7 @@ __license__ = "GPL v3"
 
 from calibre.customize import InterfaceActionBase
 
+
 class GoogleBooksSync(InterfaceActionBase):
     name = "Google Books Sync"
     description = "Provides synchronization of your eBooks and metadata from Calibre to Google Books"
